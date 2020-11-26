@@ -21,3 +21,4 @@
 - [美图全链路监控实战](https://mp.weixin.qq.com/s/zd2K4I27KFvCnw788TIZ0A)
 - [Growth as a writer](https://linus.coffee/note/writing-growth/)
 - [缺陷管理，一门关于质量内建的学问](https://mp.weixin.qq.com/s/V7ZtCUaG8R8kRX12qpmTgg)
+- [Things I Learned to Become a Senior Software Engineer](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html)
