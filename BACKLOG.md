@@ -1,6 +1,6 @@
-# BACKLOG
+# Backlog
 
-读完后需要：移动到当天的阅读笔记中，并到 https://app.getpocket.com/favorites/list 中找到并 Archive 掉
+读完后移动到当天的阅读笔记中，并到 https://app.getpocket.com/favorites/list 中找到并 Archive 掉
 
 - [与 10 倍开发者共事两年，我学到了不一样的东西](https://mp.weixin.qq.com/s/f8kp66wHqXCk5Rme862LGA)
 - [How do you write simple explanations without sounding condescending?](https://jvns.ca/blog/2020/11/15/simple-explanations-without-sounding-condescending/)
