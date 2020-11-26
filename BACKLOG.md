@@ -22,3 +22,5 @@
 - [Growth as a writer](https://linus.coffee/note/writing-growth/)
 - [缺陷管理，一门关于质量内建的学问](https://mp.weixin.qq.com/s/V7ZtCUaG8R8kRX12qpmTgg)
 - [Things I Learned to Become a Senior Software Engineer](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html)
+- [如何划分限界上下文](https://insights.thoughtworks.cn/ddd-aggregation-bounded-context/)
+- [Gitflow 有害论](https://insights.thoughtworks.cn/gitflow-consider-harmful/)
