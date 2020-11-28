@@ -6,8 +6,8 @@
 
 另外也维护一个阅读清单，每天从中选读一点东西，额外补充些「 营养 」
 
-- [BOOKS](./BOOKS.md)
-- [RSS](./RSS.md)
+- [BookList](./booklist.md)
+- [RSS](./rss.md)
 
 ## Tips
 
