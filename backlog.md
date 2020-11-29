@@ -17,3 +17,8 @@
 - [Things I Learned to Become a Senior Software Engineer](https://neilkakkar.com/things-I-learned-to-become-a-senior-software-engineer.html)
 - [如何划分限界上下文](https://insights.thoughtworks.cn/ddd-aggregation-bounded-context/)
 - [Gitflow 有害论](https://insights.thoughtworks.cn/gitflow-consider-harmful/)
+- [美团技术团队书单（ 通用能力篇 ）](https://mp.weixin.qq.com/s/5nUqazLLV67H824Jg6kd_A)
+- [被嫌弃的 35 岁程序员](https://mp.weixin.qq.com/s/ri9eik51MLh8ksesktJYqg)
+- [你会用到的 15 个前端小知识](https://mp.weixin.qq.com/s/IMQhGAS_TaCDDITgl4Ekew)
+- [Common Performance Review Biases: How to Spot and Counter Them](https://blog.pragmaticengineer.com/performance-review-biases/)
+- [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
