@@ -8,8 +8,8 @@
 
 同时在这个仓库也维护一个阅读清单，每天就是从这其中选读一点东西
 
-- [BookList](./booklist.md)
-- [RSS](./rss.md)
+- [BookList](./booklist.md) 书单，包含纸质书和电子书，电子书一般是微信读书
+- [RSS](./rss.md) 收集的比较好的博主或官方技术团队的订阅源
 
 ## Tips
 
