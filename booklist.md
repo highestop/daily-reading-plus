@@ -19,16 +19,15 @@
 - 深入浅出 RxJS
 - JavaScript 设计模式与开发实践
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-
-## Backend
-
-## DevOps
-
-- 持续交付 2.0
+- 从零开始搭建前端监控平台 - 陈辰
 
 ## Network
 
 - 网络是怎样连接的
+
+## Infrastructure / DevOps
+
+- 持续交付 2.0
 
 ## Architecture
 
