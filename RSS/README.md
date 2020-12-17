@@ -23,7 +23,7 @@
 - Meituan Tech (CN): https://tech.meituan.com/
 - AlloyTeam (CN): http://www.alloyteam.com/page/0/
 
-## Front-End
+## Frontend
 
 - InfoQ 前端: https://www.infoq.cn/topic/Front-end
 - Angular In-Depth on Medium: https://medium.com/angular-in-depth
@@ -35,9 +35,9 @@
 - 知乎 - 前端外刊: https://zhuanlan.zhihu.com/frontendmagazine
 - 掘金前端: https://juejin.im/frontend
 
-## Channel
+## Channels
 
-搜索微信公众号关注
+> 搜索微信公众号关注
 
 - Vue 中文社区
 - Angular 中文社区
