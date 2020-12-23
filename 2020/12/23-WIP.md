@@ -17,6 +17,6 @@
 
 # [9 Hard Lessons I Struggled to Learn During My 18 Years as a Software Developer](https://medium.com/better-programming/9-hard-lessons-i-struggled-to-learn-during-my-18-years-as-a-software-developer-14f28512f647)
 
-> 翻译：[从业18年，我总结了9个最有价值的经验](https://www.infoq.cn/article/DUSi0kwDtUZhspcJVg8l)、https://mp.weixin.qq.com/s/2G2kt_HL4Vah1XID6CMohA
+> 翻译：[从业 18 年，我总结了 9 个最有价值的经验](https://www.infoq.cn/article/DUSi0kwDtUZhspcJVg8l)、https://mp.weixin.qq.com/s/2G2kt_HL4Vah1XID6CMohA
 >
 > 另外 share 一个小 trick：这篇 medium 文章是收费阅读，但加到 Pocket 中可以利用 Article 模式阅读全文
