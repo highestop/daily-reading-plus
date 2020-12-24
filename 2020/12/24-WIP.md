@@ -20,6 +20,14 @@
 - 介绍了一种利用 Rx + Hooks 实现 State Control 的非常简单的实践
 - Rx + Hooks 可能可以做到很优雅，这个需要找到最佳实践
 
+# [10 Ways to Speed Up React Development](https://thecarrots.io/blog/10-ways-to-speed-up-react-development)
+
+- 选一款 Css-in-JS
+- 推荐了 Storybook（ 能 mock 能 isolate config 有助于结构化 ）
+- 强烈不建议手写 form，用 formik 或 hook-form
+- zsh 等 Superpowered Terminal 可以提效
+- React 社区很强大，不要重复造轮子
+
 # [What is a project management office (PMO) and do you need one?](https://www.cio.com/article/2441862/what-is-a-project-management-office-pmo-and-do-you-need-one.html)
 
 - A PMO makes sure company procedures, practices and operations go right — on time, on budget and all in the same way. 很重要的一点是「 保证 」
