@@ -28,6 +28,10 @@
 - zsh 等 Superpowered Terminal 可以提效
 - React 社区很强大，不要重复造轮子
 
+# [Facebook 新一代 React 状态管理库 Recoil](https://mp.weixin.qq.com/s/D867pstcuk4TszMn3zRJRw)
+
+介绍了下 Recoil 的背景和基本用法。个人理解 Recoil 是基于 Context 做了更小粒度的（ Atom ）的变更订阅，同时代码上更友好。相比起来 Redux 还是太重了，而 Mobx 用了 decorator
+
 # [What is a project management office (PMO) and do you need one?](https://www.cio.com/article/2441862/what-is-a-project-management-office-pmo-and-do-you-need-one.html)
 
 - A PMO makes sure company procedures, practices and operations go right — on time, on budget and all in the same way. 很重要的一点是「 保证 」
@@ -69,8 +73,3 @@
     - 命令层，统一做收口，简单甚至零配置，一键式操作，增强易用性
 - 基础能力要覆盖整个项目的生命周期，如初始化、新增和升级资源、新增组件、调试、静态检查、测试、编译、部署集成 CI/CD
 - 工具为基础能力提供了落地的可能，如规范的落地用一个 CLI 就能解决，约定优于配置，大家直接用就好，减少心智成本
-
-# [当我们在谈论大前端时，我们在谈些什么](https://mp.weixin.qq.com/s/3sAnw1w1b5ZePvlFkBhHzw)
-
-# [工作流引擎在有赞 DevOps 中的实践](https://tech.youzan.com/workflow-engine-in-youzan-devops/)
-
