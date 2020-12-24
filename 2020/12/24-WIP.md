@@ -1,5 +1,13 @@
 # [How to Evaluate NPM Packages](https://thecarrots.io/blog/how-to-evaluate-npm-packages)
 
+作者介绍了一些自己选择第三方库时的考虑因素和建议，好的选择会让之后长期的开发和维护体验更佳而不是更痛苦（ If software has eaten the world, then open-source software propels it forward ）
+
+- 光看 Star 是片面的，还要看如 Contributor 数量、Userd 项目数量、是否有 Sponsor 等
+    - 作者给了一个查询 Star 历史的工具，输入仓库地址即可。如 https://star-history.t9t.io/#NG-ZORRO/ng-zorro-antd
+    - 还要看下 Contributors 的活跃程度与分布，比如「 换届了 」或总是少数几个人维护就不太理想
+- 性能上看最大的因素是包体积，以及「 弹性 」？—— 比如提到了 AntD 的一些 side effect（ 部分因为 momentjs 造成 ）使得模块的 tree-shaking 效果不佳
+- 安全性基本能靠广大的 Contributors 和依赖方得到保证
+
 # [RxJS with React Hooks for state management](https://blog.logrocket.com/rxjs-with-react-hooks-for-state-management/)
 
 - 介绍了一种利用 Rx + Hooks 实现 State Control 的非常简单的实践
