@@ -29,8 +29,6 @@
 
 扩展阅读：[How to develop a PMO strategic plan](https://www.cio.com/article/3288926/how-to-develop-a-pmo-strategic-plan.html)、[10 project management myths to avoid](https://www.cio.com/article/3252332/10-project-management-myths-to-avoid.html)
 
-# [工作流引擎在有赞 DevOps 中的实践](https://tech.youzan.com/workflow-engine-in-youzan-devops/)
-
 # [2020 国内公司前端团队都在搞些什么?](https://www.zhihu.com/question/398940598/answer/1269685808)
 
 针对前端基建给了一些很实用的建议。大致可以分为三个阶段
@@ -51,3 +49,6 @@
     - 端与端架构：微服务、微前端、独立网关、接口配置与模拟、视图聚合与裁剪
 
 # [当我们在谈论大前端时，我们在谈些什么](https://mp.weixin.qq.com/s/3sAnw1w1b5ZePvlFkBhHzw)
+
+# [工作流引擎在有赞 DevOps 中的实践](https://tech.youzan.com/workflow-engine-in-youzan-devops/)
+
