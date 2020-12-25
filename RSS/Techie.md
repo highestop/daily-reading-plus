@@ -42,6 +42,7 @@
 > 搜索微信公众号关注
 
 - Vue 中文社区
+- React / React 中文社区
 - Angular 中文社区
 - Alibaba F2E
 - 阿里技术
@@ -52,6 +53,9 @@
 - InfoQ
 - 架构头条
 - 架构师
+- 分布式系统之美
+- 高可用框架
+- 前端之巅
 
 ## Personal
 
