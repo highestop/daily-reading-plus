@@ -4,12 +4,22 @@
 
 这里的文章或引用，都是我自己读过且认为有一定价值的。这里不限语言和话题，当然大多数都是技术成长为主的
 
-给自己提一点小要求：尽量能用一两句话概括描述每篇文章的内容或感受，也就是 TL;DR，另外的读书笔记多会以 Bullet List 的方式列出
+给自己提一点小要求：尽量用 TL;DR 一两句话概括描述文章的宗旨，读书笔记和自己的思考多以 Bullet List 的方式列出
 
-同时在这个仓库也维护一个阅读清单，每天就是从这其中选读一点东西
+## Daily
 
-- [Books](./Books/README.md) —— 收录书单，含纸质书和电子书，电子书一般是微信读书
-- [RSS](./RSS/README.md) —— 收录好的技术 Blogs 或 Official Tech-Team 的 RSS 源
+是每天阅读的一些笔记
+
+## Objective
+
+是专题阅读，通常围绕一个具体的技术话题进行学习
+
+## Lists
+
+维护一些阅读来源的渠道和清单，每天多是从中选一点东西来读
+
+- [Books](./Books/README.md)：书单，包括纸质书和电子书，电子书一般来自微信读书
+- [RSS](./RSS/README.md)：优秀的 Blogs 或 RSS 源
 
 ## Tips
 
@@ -21,6 +31,7 @@
 - 收录到 Pocket 中
     - Chrome 和 Safari 都有 Pocket 插件，iPhone 上写了个 Shortcuts 然后放在通知栏首位，这样不用关闭 App 就可以完成收录
     - 另外，我们在 [Daily-Reading](https://github.com/highestop/Daily-Reading) 仓库中用 Issues 管理着阅读清单。~~除了 Github Web 或邮件的 Subscription Notification 外，还可以定时用 Github 的 API 拉取 Opened Issues 列表 `curl -i "https://api.github.com/repos/daily-reading/daily-reading/issues`、解析 Content 中的链接、[Add 到 Pocket 的 API 中去](https://getpocket.com/developer/docs/v3/add)，傻瓜式完成同步~~（ 也许是多余的 ）
+    - Pocket 还有一个好处就是 Article Mode 可以阅读 Medium 订阅文章的全文 :)
 - 固定时间（ 如上下班通勤时、午餐后遛弯时 ）将 My List 中的文章分类（ 打 Tags ），并将今天想要读的文章归到 Favorites 中
 - 随时随地进行阅读 —— 通过筛选 Favorites & My List 找出目标然后 be focused 去阅读它们。 读完的 Archive 掉
 - 睡觉前会大概看下剩了多少。尽量一天的任务一天完结，越攒越多会让自己有压力，而且堆积起来之后 Read-It-Later 就会变成 Read-It-Never —— 据我来看这个时间不会超过 3 天
