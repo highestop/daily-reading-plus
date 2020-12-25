@@ -9,7 +9,7 @@
 同时在这个仓库也维护一个阅读清单，每天就是从这其中选读一点东西
 
 - [Books](./Books/README.md) —— 收录书单，含纸质书和电子书，电子书一般是微信读书
-- [RSS/技术成长](./RSS/技术成长.md) —— 收录好的技术 Blogs 或 Official Tech-Team 的 RSS 源
+- [RSS](./RSS/README.md) —— 收录好的技术 Blogs 或 Official Tech-Team 的 RSS 源
 
 ## Tips
 
