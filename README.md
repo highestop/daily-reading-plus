@@ -11,7 +11,7 @@
 - [Subscriptions](./Subscriptions/)：优秀的 Blogs 或 RSS 源
 - [Books](./Books/)：书单，包括纸质书和电子书，电子书一般来自微信读书
 
-## Tips
+## One More Thing
 
 这里也分享一下自己长久以来坚持阅读的一点点小经验：
 
