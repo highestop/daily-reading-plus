@@ -19,7 +19,7 @@
 维护一些阅读来源的渠道和清单，每天多是从中选一点东西来读
 
 - [Books](./Books/README.md)：书单，包括纸质书和电子书，电子书一般来自微信读书
-- [RSS](./RSS/README.md)：优秀的 Blogs 或 RSS 源
+- [Subscriptions](./Subscriptions/README.md)：优秀的 Blogs 或 RSS 源
 
 ## Tips
 
