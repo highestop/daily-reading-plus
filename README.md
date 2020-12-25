@@ -6,20 +6,10 @@
 
 给自己提一点小要求：尽量用 TL;DR 一两句话概括描述文章的宗旨，读书笔记和自己的思考多以 Bullet List 的方式列出
 
-## Daily
-
-每天阅读的一些笔记
-
-## Objective
-
-专题阅读，通常围绕一个具体的技术话题进行学习
-
-## Lists
-
-维护一些阅读来源的渠道和清单，每天多是从中选一点东西来读
-
-- [Books](./Books/README.md)：书单，包括纸质书和电子书，电子书一般来自微信读书
-- [Subscriptions](./Subscriptions/README.md)：优秀的 Blogs 或 RSS 源
+- [Daily](./Daily/)：每天阅读的一些笔记
+- [Objectives](./Objectives/)：专题阅读，通常围绕一个具体的技术话题进行学习
+- [Subscriptions](./Subscriptions/)：优秀的 Blogs 或 RSS 源
+- [Books](./Books/)：书单，包括纸质书和电子书，电子书一般来自微信读书
 
 ## Tips
 
