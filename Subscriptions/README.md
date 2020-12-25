@@ -1,6 +1,14 @@
-# RSS
+# Subscriptions
 
 ## Engineering
+
+- ThoughtWorks (CN): https://insights.thoughtworks.cn/
+- Meituan Tech (CN): https://tech.meituan.com/
+- Alloy (CN): http://www.alloyteam.com/page/0/
+- Etsy: https://codeascraft.com/
+- Quora: https://www.quora.com/q/quoraengineering/
+
+### RSS
 
 - Facebook: https://engineering.fb.com/feed/
 - LinkedIn: https://engineering.linkedin.com/blog.rss
@@ -17,11 +25,6 @@
 - Github: https://github.blog/engineering.atom
 - Dropbox: https://blogs.dropbox.com/tech/feed/
 - Heroku: http://engineering.heroku.com/feed.xml
-- Etsy: https://codeascraft.com/
-- Quora: https://www.quora.com/q/quoraengineering
-- ThoughtWorks (CN): https://insights.thoughtworks.cn/
-- Meituan Tech (CN): https://tech.meituan.com/
-- AlloyTeam (CN): http://www.alloyteam.com/page/0/
 
 ## Frontend
 
