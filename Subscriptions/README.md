@@ -1,4 +1,4 @@
-# Subscriptions
+# Subscribed
 
 ## Engineering
 
