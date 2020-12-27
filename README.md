@@ -8,7 +8,7 @@
 
 - [Daily](./Daily/)：每天阅读的一些笔记
 - [Objectives](./Objectives/)：专题阅读，通常围绕一个具体的技术话题进行学习
-- [Subscriptions](./Subscriptions/)：优秀的 Blogs 或 RSS 源
+- [Subscriptions](./Subscriptions/)：优质的 Blogs 或 RSS 源
 - [Books](./Books/)：书单，包括纸质书和电子书，电子书一般来自微信读书
 
 ## One More Thing
