@@ -13,4 +13,4 @@
 - [TypeScript 之父：JS 不是竞争对手，曾在惧怕开源的微软文化中艰难求生](https://mp.weixin.qq.com/s/sRAzwftB6gezEU0OLMWaKA)
 - [为什么 React 源码不用 TypeScript 来写？](https://mp.weixin.qq.com/s/pR6ek4ZBW_h0lpbFWyEzog)
 - [为什么程序员如此热爱 TypeScript？](https://mp.weixin.qq.com/s/8Qo426u7L7PZ9faDlXfrhg)
-- [TypeScript 与类型系统的一些常识](https://hijiangtao.github.io/2020/07/12/Notes-About-TypeScript-And-Type-System/)
+- [TypeScript 与类型系统的一些常识（ Notes-About-TypeScript-And-Type-System ）](https://hijiangtao.github.io/2020/07/12/Notes-About-TypeScript-And-Type-System/)
