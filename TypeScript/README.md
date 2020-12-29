@@ -14,3 +14,4 @@
 - [为什么 React 源码不用 TypeScript 来写？](https://mp.weixin.qq.com/s/pR6ek4ZBW_h0lpbFWyEzog)
 - [为什么程序员如此热爱 TypeScript？](https://mp.weixin.qq.com/s/8Qo426u7L7PZ9faDlXfrhg)
 - [TypeScript 与类型系统的一些常识（ Notes-About-TypeScript-And-Type-System ）](https://hijiangtao.github.io/2020/07/12/Notes-About-TypeScript-And-Type-System/)
+- [TypeScript: Stop Using 'any'](https://thoughtbot.com/blog/typescript-stop-using-any-there-s-a-type-for-that)
