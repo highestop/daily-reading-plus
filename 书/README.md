@@ -19,9 +19,6 @@
 - 深入浅出 RxJS
 - JavaScript 高级程序设计（ 第 3 版 ）
 - JavaScript 设计模式与开发实践
-- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)
-    - 英文原著 https://basarat.gitbook.io/typescript/
-    - Github https://github.com/basarat/typescript-book
 - 从零开始搭建前端监控平台
 - Web 全栈工程师的自我修养
 - TypeScript 实践指南
