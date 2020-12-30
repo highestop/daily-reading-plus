@@ -6,8 +6,8 @@
 
 - 以年月日记录的是每天阅读的一些笔记
 - 还有一些目录是专题阅读，通常围绕一个具体的技术话题进行学习
-- [Books](./Books/) 是书单，包括纸质书和电子书，电子书一般来自微信读书
-- [Subscriptions](./Subscriptions/) 是 Blogs 或 RSS 源
+- [Books](./@Books/) 是书单，包括纸质书和电子书，电子书一般来自微信读书
+- [Subscriptions](./@Subscriptions/) 是 Blogs 或 RSS 源
 
 给自己提一点小要求：尽量用 TL;DR 一两句话概括描述文章的宗旨，读书笔记和自己的思考多以 Bullet List 的方式列出
 
