@@ -13,7 +13,7 @@
 
 这里也分享一下自己长久以来坚持阅读的一点点小经验：
 
-- **找到文章**。Push（ 主动搜 ）/ Pull（ 被推动 ）是两条途径，无论是哪种途径，都要找到内容、数量适合自己的渠道。在 [Daily-Reading](https://github.com/highestop/Daily-Reading) 仓库中的 Issues 就是阅读清单。~~除了 Github Web 或邮件的 Subscription Notification 外，还可以定时用 Github 的 API 拉取 Opened Issues 列表 `curl -i "https://api.github.com/repos/daily-reading/daily-reading/issues`、解析 Content 中的链接、[Add 到 Pocket 的 API 中去](https://getpocket.com/developer/docs/v3/add)，傻瓜式完成同步~~（ 也许是多余的 ）
+- **找到文章**。Push（ 主动搜 ）/ Pull（ 被动收到推送 ）是两条途径。无论是哪种，都要总结出内容、数量均适合自己的渠道。在 [Daily-Reading](https://github.com/highestop/Daily-Reading) 仓库中的 Issues 就是阅读清单。~~除了 Github Web 或邮件的 Subscription Notification 外，还可以定时用 Github 的 API 拉取 Opened Issues 列表 `curl -i "https://api.github.com/repos/daily-reading/daily-reading/issues`、解析 Content 中的链接、[Add 到 Pocket 的 API 中去](https://getpocket.com/developer/docs/v3/add)，傻瓜式完成同步~~（ 也许是多余的 ）
 - **收录到 Pocket 中**。Chrome 和 Safari 都有 Pocket 插件，iPhone 上写了个 Shortcuts 放在通知栏顶部，这样就不用关闭 App 了
 - **制作清单**。固定时间（ 如上下班通勤时、午餐后遛弯时 ）将 My List 中的文章分类（ 打 Tags ），并将今天想要读的文章归到 Favorites 中
 - **随时随地进行阅读** —— 通过筛选 Favorites & My List 找出目标然后 be focused 去阅读它们。Pocket 有一个 tricky 的好处就是它的 Article Mode 可以阅读 Medium 订阅文章的全文。读完记得 Archive 掉
