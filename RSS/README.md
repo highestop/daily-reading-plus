@@ -1,4 +1,4 @@
-# 技术文章订阅
+# RSS
 
 ## Engineering
 
@@ -8,7 +8,7 @@
 - Etsy: https://codeascraft.com/
 - Quora: https://www.quora.com/q/quoraengineering/
 
-### RSS
+### Feeds
 
 - Facebook: https://engineering.fb.com/feed/
 - LinkedIn: https://engineering.linkedin.com/blog.rss
