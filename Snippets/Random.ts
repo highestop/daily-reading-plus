@@ -1,44 +1,6 @@
 /*
- * 范围随机数
+ * 随机数
  */
-function randomNumber(max: number = 1, min: number = 0) {
+function random(max: number = 1, min: number = 0) {
   return Math.floor(Math.random() * (max - min) + min);
 }
-
-/*
- * 随机生成 ID（ 非特殊如 UUID ）
- */
-
-// create unique id starting from current time in milliseconds
-// incrementing it by 1 everytime requested
-const uniqueId = (() => {
-  const id = (() => {
-    let mil = new Date().getTime();
-
-    while (true)
-      yield mil += 1;
-  })();
-
-  return () => id.next().value;
-})();
-
-// create unique incrementing id starting from provided value or zero
-// good for temporary things or things that id resets
-const uniqueIncrementingId = ((lastId = 0) => {
-  const id = (function*() {
-    let numb = lastId;
-
-    while (true)
-      yield numb += 1;
-  })()
-
-  return (length = 12) => `${id.next().value}`.padStart(length, '0');
-})();
-
-// create unique id from letters and numbers
-const uniqueAlphaNumericId = (() => {
-  const heyStack = '0123456789abcdefghijklmnopqrstuvwxyz';
-  const randomInt = () => Math.floor(Math.random() * Math.floor(heyStack.length))
-
-  return (length = 24) => Array.from({length}, () => heyStack[randomInt()]).join('');
-})();
