@@ -2,7 +2,7 @@
  * 顺序执行 Promises
  */
 const asyncSequentializer = (() => {
-  const toPromise = (x) => {
+  const toPromise = (x: any) => {
     if(x instanceof Promise) { // if promise just return it
       return x;
     }
@@ -16,7 +16,7 @@ const asyncSequentializer = (() => {
     return Promise.resolve(x)
   }
 
-  return (list) => {
+  return (list: any[]) => {
     const results = [];
 
     return list
