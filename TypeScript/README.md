@@ -1,7 +1,5 @@
 # TypeScript
 
-一些阅读资料
-
 - [TypeScript Repo on Github](https://github.com/microsoft/TypeScript)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/)（ https://basarat.gitbook.io/typescript/ 、https://github.com/basarat/typescript-book ）
