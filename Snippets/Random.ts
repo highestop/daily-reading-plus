@@ -1,7 +1,7 @@
 /*
  * 范围随机数
  */
-function ran(max = 1, min = 0) {
+function randomNumber(max: number = 1, min: number = 0) {
   return Math.floor(Math.random() * (max - min) + min);
 }
 
@@ -12,7 +12,7 @@ function ran(max = 1, min = 0) {
 // create unique id starting from current time in milliseconds
 // incrementing it by 1 everytime requested
 const uniqueId = (() => {
-  const id = (function*() {
+  const id = (() => {
     let mil = new Date().getTime();
 
     while (true)
