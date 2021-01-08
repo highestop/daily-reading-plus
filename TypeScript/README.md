@@ -1,6 +1,6 @@
 # TypeScript
 
-有关 TS 的一些资料
+一些阅读资料
 
 - [TypeScript Repo on Github](https://github.com/microsoft/TypeScript)
 - [The TypeScript Handbook](https://www.typescriptlang.org/docs/handbook/intro.html)
