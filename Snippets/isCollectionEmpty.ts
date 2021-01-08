@@ -1,7 +1,7 @@
 /*
  * 判断一个集合（ 数组、对象、Set、Map ）列表
  */
-function isEmpty(x) {
+function isEmpty(x: any) {
   if(Array.isArray(x)
     || typeof x === 'string'
     || x instanceof String
