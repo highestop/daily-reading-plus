@@ -1,7 +1,7 @@
 /*
  * 简单的轮询
  */
-async function poll(fn, validate, interval = 2500) {
+async function poll(fn: () => any, validate: (result: any) => boolean, interval: number = 2500) {
   const resolver = async (resolve, reject) => {
     try { // catch any error thrown by the "fn" function
       const result = await fn(); // fn does not need to be asynchronous or return promise
