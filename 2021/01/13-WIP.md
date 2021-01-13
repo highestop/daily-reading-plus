@@ -58,6 +58,7 @@
 
 # [2021 年前端趋势预测](https://mp.weixin.qq.com/s/OAKvV3HHkIEnzXdvuiCkuA)
 
-- deno 开创的 http module import 技术，把 cjs 转 esm 都交给 CDN 类的服务来做，运行时引入执行，取代编译前引入解析
+- Deno 开创的 Http Module Import 技术，把 CJS 转 ESN 都交给 CDN 类的服务来做，通过代码地址来引用代码，运行时引入执行，取代编译前引入解析
+    - [2021 再看 Deno（ 关于 CDN for JavaScript Modules 的思考）](https://mp.weixin.qq.com/s/EzmNQ_oqxUuPQFfZYJWDzA) 这篇文章提到，其实 Http Import 很可能也是低代码可视化编排系统的一个基础，否则扩展性太差了。ESM.Run 是一个将 NPM 或 Github 代码直接托管到 S3 CDN 上的方案
 - 逻辑编排，以函数为粒度，可视化流程。这一点可以延伸到系统的低代码上，无非就是提炼业务领域模型、创建一套语义描述业务领域知识、可视化编排语义树和数据，从而直接生成业务系统
 - 智能 UI 精细化。[智能 UI：面向未来的 UI 开发技术](https://mp.weixin.qq.com/s/1RNEQb8N68Muu6YmFa-QrQ)、[CBU 智能 UI 落地最佳实践](https://juejin.cn/post/6889305339172323336)。很多是站在 P2C 基础上的，PD 标注体系是个大工程，需要站在 PD 角度理解，但这里的建模思考非常有价值
