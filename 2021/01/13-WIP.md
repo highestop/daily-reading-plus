@@ -38,3 +38,24 @@
     - 补位、合作精神
     - 鼓励失败
 - 信赖的建立是多方面的，不仅仅是 nice to have
+
+# [领域模型 vs 数据模型，应该怎么用？](https://mp.weixin.qq.com/s/Wt2Fssm8kd8b8evVD9aujA)
+
+- 领域模型：领域知识，业务实体，概念及其之间的关系。形态是显性表达业务语义
+- 数据模型：数据存储，强调罗占星、性能等非业务功能属性
+
+领域是核心，围绕数据的是技术细节
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKibkYRKlteh0EeWBbhYkdEmCpIBgUiav8ka7JnxyqOPH1RhHeUx2TGicia1CtpbsUx6dLHu4CcFiaJcOg/640)
+
+一种让领域模型和数据模型各司其职的手段是，利用一层 gateway 做转译、解耦和防腐
+
+![](https://mmbiz.qpic.cn/mmbiz_jpg/Z6bicxIx5naKibkYRKlteh0EeWBbhYkdEmh5uicbPolPicNFmmgGj2oORRKiaoBkzXdsyqcEclvSyqclmIXvZ8D62oA/640)
+
+扩展：在业务领域模型未知的情况下做好数据模型的扩展。参考 Salesforce 的匿名字段表，元数据驱动，描述业务表意，支撑上面的 SaaS 业务
+
+延伸阅读：https://github.com/alibaba/COLA
+
+# [2021 年前端趋势预测](https://mp.weixin.qq.com/s/OAKvV3HHkIEnzXdvuiCkuA)
+
+- deno 开创的 http module import 技术，把 cjs 转 esm 都交给 CDN 类的服务来做，运行时引入
