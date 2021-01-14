@@ -11,9 +11,9 @@
 
 # [数字化时代，如何构建下一代研发协作工具平台？](https://mp.weixin.qq.com/s/mSiGj6IJ4Lf0Rv6PfsnjBA)
 
-# [](https://mp.weixin.qq.com/s/KaLjNOAOW7OY0TvMVL3q3g)
+# [RxJS：给你如丝一般顺滑的编程体验](https://mp.weixin.qq.com/s/KaLjNOAOW7OY0TvMVL3q3g)
 
-挺好的一篇大而全的 Rx 入门介绍
+挺好的一篇大而全的 Rx 入门介绍，把基本概念（ 包括 Hot&Cold 也介绍了 ）
 
 - callback 到 promise 解决的是可读性问题，promise 到 rx 解决的是可控制问题
 - 响应式和流解决的问题不同，响应式表示是事件驱动，流是一种视角，将数据+事件组成时间上的切面，每个切面都是一种局部可观察状态
