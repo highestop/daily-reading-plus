@@ -8,6 +8,7 @@
     - props + state -> view 是 functional component 的范式，其中 props 是围绕组件树的，state 因为有了 hook 就可以来源于脱离于组件树的逻辑，是否复用不是关键
 - hook 的负担还是来自于心智成本
   - 「 在一次渲染中，组件的 props 和 state 是保持不变的 」
+  - 得去理解为什么 hook 依赖于声明顺序
   - 例如 useEffect 淡化了组件生命周期，所以其影响也容易被忽略
   - 再例如性能优化的需求引入了 useMemo 和 useCallback 来控制数据变更的影响
 - React 本身就很灵活，Hook 使得如何组织代码更灵活
