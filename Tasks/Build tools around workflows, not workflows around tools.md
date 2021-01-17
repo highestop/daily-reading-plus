@@ -1,0 +1,3 @@
+# Build tools around workflows, not workflows around tools
+
+> https://github.com/daily-reading/daily-reading/tree/main/2020/12/27
