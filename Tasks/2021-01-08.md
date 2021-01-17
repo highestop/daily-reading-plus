@@ -1,0 +1,3 @@
+# Building On-Call Culture at GitHub
+
+> https://github.com/daily-reading/daily-reading/blob/main/2021/1/8
