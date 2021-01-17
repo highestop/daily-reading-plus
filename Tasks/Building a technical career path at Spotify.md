@@ -1,0 +1,3 @@
+# Building a technical career path at Spotify
+
+> https://github.com/daily-reading/daily-reading/tree/main/2021/1/15
