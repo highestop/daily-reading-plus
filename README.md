@@ -1,8 +1,10 @@
 # Daily Reading Plus
 
-最近加入了 [Daily-Reading](https://github.com/highestop/Daily-Reading) 督促自己每天进行一些英文阅读，这个仓库也是受到这件事的启发
+2020 年 10 月起，加入了 [Daily-Reading](https://github.com/highestop/Daily-Reading) 组织，来督促自己每天进行一些英文阅读
 
-这里的文章或引用，都是我自己读过且认为有一定价值的。这里不限语言和话题，当然大多数都是技术成长为主的
+这个仓库也是受到这件事的启发，想做更多的阅读和学习记录
+
+这里不限语言和话题，大多数都是技术成长为主的，也有个人成长、生活自律等
 
 ## Changelogs
 
