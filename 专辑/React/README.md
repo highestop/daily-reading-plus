@@ -40,3 +40,4 @@
 - [ ] [Structuring React Projects — A Definitive Guide](https://blog.bitsrc.io/structuring-a-react-project-a-definitive-guide-ac9a754df5eb)
 - [ ] [React Project Structure Best Practices for Scalable Application](https://dev.to/syakirurahman/react-project-structure-best-practices-for-scalable-application-18kk)
 - [ ] [Scalable React Boilerplate](https://github.com/scalable-react/scalable-react-boilerplate)
+- [ ] [Solve modals with context and hooks](https://alexandrempsantos.com/draft__solve-modals-with-context-and-hooks/)
