@@ -7,4 +7,4 @@
 - Mobx：[State](https://mobx.js.org/observable-state.html)、[Integration](https://mobx.js.org/react-integration.html)、[中文](https://cn.mobx.js.org/)
 - [Constate](https://github.com/diegohaz/constate)
 - [Learning Resources](https://reactresources.com/)
-- [In-Depth-Dev on Medium](https://indepth.dev/react)
+- [In-Depth on Medium](https://indepth.dev/react)
