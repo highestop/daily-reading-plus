@@ -1,4 +1,4 @@
-# MP（ Media Press ）
+# WMP（ = Weixin Media Press ）
 
 ## Developer
 
