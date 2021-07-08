@@ -1,4 +1,4 @@
-# Blogs
+# 博客
 
 - https://react.iamkasong.com/ React 学习指南
 - https://jkchao.github.io/typescript-book-chinese/ TypeScript 学习指南
